@@ -7,7 +7,7 @@
 
 ![image](https://github.com/MlllXavier/WorkerBee/assets/48932130/478aa943-4c5c-4159-a883-07c7e843859a)
 
-![image](https://github.com/MlllXavier/WorkerBee/assets/48932130/6f314bd6-2751-4870-9b42-126ddc26f9d0)
+![image](https://github.com/MlllXavier/WorkerBee/assets/48932130/496fad58-a9a7-4ba8-84cc-e7cbd9ddde24)
 
 
 软件架构：
