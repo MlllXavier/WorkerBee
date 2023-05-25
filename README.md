@@ -2,6 +2,21 @@
 软件工程原理-课程项目
 基于C#的资源整合爬虫软件。 爬取特定几个网站的免费资源，有电影、音乐、图片、小说等。
 
+运行效果：
+![image](https://github.com/MlllXavier/WorkerBee/assets/48932130/ae8925da-34ce-4ca3-8f7b-f28d4689fe05)
+
+![image](https://github.com/MlllXavier/WorkerBee/assets/48932130/478aa943-4c5c-4159-a883-07c7e843859a)
+
+![image](https://github.com/MlllXavier/WorkerBee/assets/48932130/aa18b4dd-d51f-4ff9-9af8-cf662d9fb8c7)
+
+![image](https://github.com/MlllXavier/WorkerBee/assets/48932130/33994a9d-9709-47c5-a101-a28b1292176c)
+![image](https://github.com/MlllXavier/WorkerBee/assets/48932130/8a691e2c-d4cf-492b-af3a-98266a9abf8b)
+
+![image](https://github.com/MlllXavier/WorkerBee/assets/48932130/16f8f7e7-0e69-4191-abc6-e57d55d68372)
+
+![image](https://github.com/MlllXavier/WorkerBee/assets/48932130/458321c9-fa58-47cd-a021-c11cbb34614b)
+
+
 软件架构：
 
 安装教程：
