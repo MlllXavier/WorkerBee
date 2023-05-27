@@ -1,0 +1,70 @@
+C:\Users\Xavier\source\repos\WorkerBee\bin\Debug\WorkerBee.exe.config
+C:\Users\Xavier\source\repos\WorkerBee\bin\Debug\WorkerBee.exe
+C:\Users\Xavier\source\repos\WorkerBee\bin\Debug\WorkerBee.pdb
+C:\Users\Xavier\source\repos\WorkerBee\obj\Debug\WorkerBee.csprojAssemblyReference.cache
+C:\Users\Xavier\source\repos\WorkerBee\obj\Debug\WorkerBee.Form1.resources
+C:\Users\Xavier\source\repos\WorkerBee\obj\Debug\WorkerBee.Properties.Resources.resources
+C:\Users\Xavier\source\repos\WorkerBee\obj\Debug\WorkerBee.csproj.GenerateResource.cache
+C:\Users\Xavier\source\repos\WorkerBee\obj\Debug\WorkerBee.csproj.CoreCompileInputs.cache
+C:\Users\Xavier\source\repos\WorkerBee\obj\Debug\WorkerBee.exe
+C:\Users\Xavier\source\repos\WorkerBee\obj\Debug\WorkerBee.pdb
+C:\Users\Xavier\source\repos\WorkerBee\obj\Debug\WorkerBee.Form2.resources
+C:\Users\Xavier\source\repos\WorkerBee\obj\Debug\WorkerBee.Form3.resources
+C:\Users\Xavier\source\repos\WorkerBee\obj\Debug\WorkerBee.Form4.resources
+C:\Users\Xavier\source\repos\WorkerBee\obj\Debug\WorkerBee.Form5.resources
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\bin\Debug\WorkerBee.exe.config
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\bin\Debug\WorkerBee.exe
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\bin\Debug\WorkerBee.pdb
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\obj\Debug\WorkerBee.csprojAssemblyReference.cache
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\obj\Debug\WorkerBee.Form1.resources
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\obj\Debug\WorkerBee.Form2.resources
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\obj\Debug\WorkerBee.Form3.resources
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\obj\Debug\WorkerBee.Form4.resources
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\obj\Debug\WorkerBee.Form5.resources
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\obj\Debug\WorkerBee.Properties.Resources.resources
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\obj\Debug\WorkerBee.csproj.GenerateResource.cache
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\obj\Debug\WorkerBee.csproj.CoreCompileInputs.cache
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\obj\Debug\WorkerBee.exe
+C:\Users\Lilin\Documents\Tencent Files\2392349033\FileRecv\WorkerBee(3)\WorkerBee\obj\Debug\WorkerBee.pdb
+C:\Users\Xavier\Desktop\WorkerBee\bin\Debug\WorkerBee.exe.config
+C:\Users\Xavier\Desktop\WorkerBee\bin\Debug\WorkerBee.exe
+C:\Users\Xavier\Desktop\WorkerBee\bin\Debug\WorkerBee.pdb
+C:\Users\Xavier\Desktop\WorkerBee\obj\Debug\WorkerBee.csprojAssemblyReference.cache
+C:\Users\Xavier\Desktop\WorkerBee\obj\Debug\WorkerBee.Form1.resources
+C:\Users\Xavier\Desktop\WorkerBee\obj\Debug\WorkerBee.Form2.resources
+C:\Users\Xavier\Desktop\WorkerBee\obj\Debug\WorkerBee.Form3.resources
+C:\Users\Xavier\Desktop\WorkerBee\obj\Debug\WorkerBee.Form4.resources
+C:\Users\Xavier\Desktop\WorkerBee\obj\Debug\WorkerBee.Form5.resources
+C:\Users\Xavier\Desktop\WorkerBee\obj\Debug\WorkerBee.Properties.Resources.resources
+C:\Users\Xavier\Desktop\WorkerBee\obj\Debug\WorkerBee.csproj.GenerateResource.cache
+C:\Users\Xavier\Desktop\WorkerBee\obj\Debug\WorkerBee.csproj.CoreCompileInputs.cache
+C:\Users\Xavier\Desktop\WorkerBee\obj\Debug\WorkerBee.exe
+C:\Users\Xavier\Desktop\WorkerBee\obj\Debug\WorkerBee.pdb
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\bin\Debug\WorkerBee.exe.config
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\bin\Debug\WorkerBee.exe
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\bin\Debug\WorkerBee.pdb
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\obj\Debug\WorkerBee.csprojAssemblyReference.cache
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\obj\Debug\WorkerBee.Form1.resources
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\obj\Debug\WorkerBee.Form2.resources
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\obj\Debug\WorkerBee.Form3.resources
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\obj\Debug\WorkerBee.Form4.resources
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\obj\Debug\WorkerBee.Form5.resources
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\obj\Debug\WorkerBee.Properties.Resources.resources
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\obj\Debug\WorkerBee.csproj.GenerateResource.cache
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\obj\Debug\WorkerBee.csproj.CoreCompileInputs.cache
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\obj\Debug\WorkerBee.exe
+G:\qq下载\1798419176\FileRecv\WorkerBee(1)\WorkerBee\obj\Debug\WorkerBee.pdb
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\bin\Debug\WorkerBee.exe.config
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\bin\Debug\WorkerBee.exe
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\bin\Debug\WorkerBee.pdb
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Debug\WorkerBee.csprojAssemblyReference.cache
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Debug\WorkerBee.Form1.resources
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Debug\WorkerBee.Form2.resources
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Debug\WorkerBee.Form3.resources
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Debug\WorkerBee.Form4.resources
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Debug\WorkerBee.Form5.resources
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Debug\WorkerBee.Properties.Resources.resources
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Debug\WorkerBee.csproj.GenerateResource.cache
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Debug\WorkerBee.csproj.CoreCompileInputs.cache
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Debug\WorkerBee.exe
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Debug\WorkerBee.pdb

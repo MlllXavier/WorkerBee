@@ -1,0 +1,14 @@
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\bin\Release\WorkerBee.exe.config
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\bin\Release\WorkerBee.exe
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\bin\Release\WorkerBee.pdb
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Release\WorkerBee.csprojAssemblyReference.cache
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Release\WorkerBee.Form1.resources
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Release\WorkerBee.Form2.resources
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Release\WorkerBee.Form3.resources
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Release\WorkerBee.Form4.resources
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Release\WorkerBee.Form5.resources
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Release\WorkerBee.Properties.Resources.resources
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Release\WorkerBee.csproj.GenerateResource.cache
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Release\WorkerBee.csproj.CoreCompileInputs.cache
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Release\WorkerBee.exe
+C:\Users\Lilin\Desktop\其他文件\WorkerBee\obj\Release\WorkerBee.pdb
